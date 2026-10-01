@@ -815,6 +815,7 @@
 - Tera W01 EV charger
 - Vevor Level 2, portable 7kW and 3.7kW EV chargers
 - Voldt 8-13A EV charger
+- Voldt 8-16A EV charger, single phase CEE plug
 - Wada Power Q8 EV charger
 - WOUEJ 22kW EV charger
 - Zencar Wpro 32A 3P EV charger
